@@ -4,3 +4,4 @@ Go to the amazon page on which the data is showing the related data for insted p
 Right click on any produt and select inspect.
 This will open a HTML code behind the working page.   
 Then follow the python code for extracting data and storing into csv file.
+[Amazon_product_data.pdf](https://github.com/As77022/amazon-data-WebScraping/files/13483799/Amazon_product_data.pdf)
